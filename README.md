@@ -9,7 +9,7 @@
 ---
 
 ### Resumo do Projeto
-Este projeto realiza uma análise completa dos dados de acidentes de trânsito registrados pela Polícia Rodoviária Federal (PRF) entre 2017 e 2025. O objetivo foi limpar, modelar e visualizar os dados para identificar padrões, tendências e os principais fatores de risco associados a acidentes fatais e não fatais nas rodovias brasileiras. A modelagem foi estrturada em Modelo Estrela (Star Scheme) por causa da alta performance na consulta e sua análise ser mais intutiva.
+Este projeto realiza uma análise completa dos dados de acidentes de trânsito registrados pela Polícia Rodoviária Federal (PRF) entre 2017 e 2025. O objetivo foi limpar, modelar e visualizar os dados para identificar padrões, tendências e os principais fatores de risco associados a acidentes fatais e não fatais nas rodovias brasileiras. A modelagem foi estruturada em Modelo Estrela (Star Scheme) por causa da alta performance na consulta e sua análise ser mais intuitiva.
 
 ### 🎥 Demonstração Completa em Vídeo
 **Para uma análise detalhada e apresentação dos insights, assista à demonstração completa:**
