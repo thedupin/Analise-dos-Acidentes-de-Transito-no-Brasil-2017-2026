@@ -19,8 +19,7 @@ Como grandes diferenciais técnicos, destaco a modelagem em **Esquema Estrela (S
 ### Acesso e Demonstração
 A melhor forma de avaliar este projeto é navegando pela ferramenta:
 
-* 🌐 **[Acessar o Dashboard Interativo Online](https://app.powerbi.com/view?r=eyJrIjoiMGIxZjNkZTktMzQ4Yy00MGI4LWI4ZmUtNTA5ZWQ5MGQxMDY0IiwidCI6IjlhOWIxZjg2LWJiYWYtNGUzOS1hN2RiLWY1ZmFlOTFlYTkyMiJ9&pageName=3d9bc5c7816faa48f258)**
-* 🎥 **[Assistir Apresentação e Insights no YouTube (5 min)]()**
+* 🌐 **[Acessar o Dashboard Interativo Online](https://app.powerbi.com/view?r=eyJrIjoiODVkNjZlMzctYjJmMC00NTVkLTk2OGQtMGY0ZDNlOGYzMGQ0IiwidCI6IjlhOWIxZjg2LWJiYWYtNGUzOS1hN2RiLWY1ZmFlOTFlYTkyMiJ9&pageName=3d9bc5c7816faa48f258)**
 
 ---
 
