@@ -84,19 +84,13 @@ Os dados brutos, provenientes de múltiplos arquivos anuais da [Polícia Rodovi�
 * **Insight 3:** A faixa etária de 20 a 40 anos (população jovem e economicamente ativa) representa, de longe, o grupo de risco mais crítico, acumulando mais de 1,6 milhão de registros. Em segundo lugar está o grupo de 40 a 50 anos, com 688 mil registros.
 * **Recomendação Estratégica:** Transição do modelo atual de campanhas de trânsito genéricas para um modelo de comunicação pública baseado em dados (*Data-Driven Marketing*). Sabendo que o motorista entre 20 e 40 anos é o principal vetor de risco, as verbas de conscientização devem ser hiper-segmentadas para este público-alvo. Recomenda-se a criação de campanhas de impacto focadas em **auto-responsabilidade**, veiculadas prioritariamente em canais digitais, redes sociais e por meio de parcerias com aplicativos de mobilidade. O objetivo é expor as estatísticas reais diretamente ao condutor, deixando claro que sua própria performance na direção é o fator determinante entre a vida e a morte nas rodovias.
 
-### 🔮 Próximos Passos (Trabalhos Futuros)
-Como a área de dados está em constante evolução, mapeei algumas melhorias técnicas que podem ser implementadas nas próximas versões deste projeto:
-* **Machine Learning:** Integração com scripts em Python (Scikit-Learn) dentro do Power BI para criar um modelo de clusterização mais avançado das áreas de risco.
-* **Atualização D-1:** Desenvolver um pipeline em nuvem (ex: Azure Data Factory) para consumir os dados da PRF via API ou web scraping, automatizando a atualização do painel.
-* **Acessibilidade:** Ampliar as opções de UX/UI com temas de alto contraste e navegação por teclado para usuários com deficiência visual.
-
 ---
-### 🔮 Próximos Passos (Trabalhos Futuros)
+### Próximos Passos (Trabalhos Futuros)
 Como a área de dados está em constante evolução, mapeei algumas melhorias técnicas que podem ser implementadas nas próximas versões deste projeto:
 * **Machine Learning:** Integração com scripts em Python (Scikit-Learn) dentro do Power BI para criar um modelo de clusterização mais avançado das áreas de risco.
 * **Acessibilidade:** Ampliar as opções de UX/UI com temas de alto contraste para usuários com deficiência visual.
 
-### 📞 Contato e Conexões
+### Contato e Conexões
 Gostou da análise ou tem alguma sugestão de melhoria? Fique à vontade para se conectar comigo para conversarmos sobre dados, BI e tecnologia!
 
 * 💼 **LinkedIn:** [Luis César da Fonseca Pereira](https://www.linkedin.com/in/luis-cesar-pereira/)
