@@ -1,4 +1,4 @@
-# Análise de Acidentes de Trânsito no Brasil (2017-2025)
+# Análise de Acidentes de Trânsito no Brasil (2017-2026)
 
 ### 🎬 Dashboard em Ação
 ![GIF do Dashboard](imagens/showcase.gif)  
